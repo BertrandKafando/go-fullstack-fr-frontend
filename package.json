@@ -47,5 +47,9 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.19.0",
     "typescript": "~3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenClassrooms-Student-Center/go-fullstack-fr-frontend.git"
   }
 }
